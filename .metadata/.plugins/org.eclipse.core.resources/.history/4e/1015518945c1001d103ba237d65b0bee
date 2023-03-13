@@ -1,0 +1,28 @@
+package exerciciosFaccat;
+
+import java.util.Scanner;
+
+public class Exercicio17 {
+
+	public static void main(String[] args) {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		double nota1, nota2, media;
+		
+		System.out.println("Digite a primeira nota: ");
+		nota1 = sc.nextDouble();
+		
+		System.out.println("Digite a primeira nota: ");
+		nota2 = sc.nextDouble();
+		
+		media = (nota1+nota2)/2;
+		
+		if (media < 0) {
+			System.out.println("Digite notas validas");
+		} else if(media >= 0 && media < 6){
+			System.out.printf("Aluno Reprovado! Média: %.2f"+media);
+		}
+	}
+
+}

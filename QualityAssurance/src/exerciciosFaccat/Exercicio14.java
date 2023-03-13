@@ -17,6 +17,8 @@ public class Exercicio14 {
 		} else {
 			System.out.println("NÃO É MAIOR QUE 10");
 		}
+		
+		sc.close();
 	}
 
 }
