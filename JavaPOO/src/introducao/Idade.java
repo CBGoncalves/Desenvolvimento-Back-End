@@ -10,8 +10,6 @@ public class Idade {
 		
 		int idade, meses, dias, anos;
 		
-		String teste = "teste";
-		
 		
 		System.out.println("Digite a sua idade em dias: ");
 		idade = ler.nextInt();
