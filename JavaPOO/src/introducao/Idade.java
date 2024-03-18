@@ -10,7 +10,6 @@ public class Idade {
 		
 		int idade, meses, dias, anos;
 		
-		
 		System.out.println("Digite a sua idade em dias: ");
 		idade = ler.nextInt();
 		
@@ -18,7 +17,9 @@ public class Idade {
 		meses = idade%12;
 		dias = meses*30;
 		
-		System.out.println("Sua idade em anos é: \nAnos: "+anos+"\nMeses: "+meses);
+		System.out.println("Sua idade em anos é: \nAnos: "+anos+"\nMeses: "+meses+"\nDias: "+dias);
+		
+		ler.close();
 
 	}
 

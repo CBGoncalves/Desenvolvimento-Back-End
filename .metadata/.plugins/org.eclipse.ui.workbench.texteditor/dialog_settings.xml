@@ -1,24 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="float"/>
+		<item key="selection" value=""/>
 		<item key="wrap" value="true"/>
-		<item key="casesensitive" value="false"/>
+		<item key="casesensitive" value="true"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
-			<item value="double"/>
+			<item value="forname"/>
+			<item value="name"/>
+			<item value="Country"/>
+			<item value="country"/>
+			<item value="id"/>
+			<item value="password"/>
+			<item value="user905"/>
+			<item value="campoUsuario"/>
+			<item value="setLa"/>
+			<item value="Nome"/>
+			<item value="nome"/>
+			<item value="javafx"/>
+			<item value="r"/>
+			<item value="cod"/>
+			<item value="read"/>
 		</list>
 		<list key="replacehistory">
-			<item value="float"/>
+			<item value=""/>
+			<item value="nome"/>
+			<item value="Pais"/>
+			<item value="pais"/>
+			<item value="idusuario"/>
+			<item value="senha"/>
+			<item value="usuario"/>
+			<item value="Email"/>
+			<item value="email"/>
+			<item value="codigo"/>
+			<item value="sc"/>
+			<item value="valorTotal"/>
+			<item value="quantidadeMacas"/>
+			<item value="quantidadeMorangos"/>
+			<item value="precoMorangos"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="478"/>
-		<item key="DIALOG_Y_ORIGIN" value="75"/>
-		<item key="DIALOG_WIDTH" value="363"/>
-		<item key="DIALOG_HEIGHT" value="437"/>
-		<item key="DIALOG_FONT_NAME" value="1|Ubuntu|11.0|0|GTK|1|"/>
+		<item key="DIALOG_X_ORIGIN" value="1442"/>
+		<item key="DIALOG_Y_ORIGIN" value="97"/>
+		<item key="DIALOG_WIDTH" value="414"/>
+		<item key="DIALOG_HEIGHT" value="454"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|5|0|Segoe UI"/>
 	</section>
 </section>

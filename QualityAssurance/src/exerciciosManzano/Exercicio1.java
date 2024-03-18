@@ -20,5 +20,7 @@ public class Exercicio1 {
 			
 			contador ++;
 		}
+		
+		sc.close();
 	}
 }

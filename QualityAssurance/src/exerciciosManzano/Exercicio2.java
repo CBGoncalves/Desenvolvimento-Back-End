@@ -14,5 +14,7 @@ public class Exercicio2 {
 			contador ++;
 		}
 		
+		sc.close();
+		
 	}
 }

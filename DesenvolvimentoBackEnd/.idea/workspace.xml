@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="87e60fd9-8321-42db-b8ad-d1a03c6caced" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.history/5c/80d737b391eb001d12f9a9b7c9be8bc2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/JavaPOO/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/JavaPOO/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QualityAssurance/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QualityAssurance/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QualityAssurance/org.eclipse.jdt.core/state.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.projects/QualityAssurance/org.eclipse.jdt.core/state.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.root/20.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.launching.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.jsdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1402089441.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1517528739.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1855061289.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.launching/libraryInfos.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/.workspace/2023/2/6/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/QualityAssurance/2023/2/7/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.core.refactoring/.refactorings/Sextou/2023/2/5/refactorings.history" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/dom5.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.jsdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPOO/bin/introducao/Idade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPOO/bin/introducao/Idade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPOO/src/introducao/Idade.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPOO/src/introducao/Idade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exemplo/ExibirNome.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exemplo/ExibirNome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exemplo/Soma.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exemplo/Soma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio05.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio06.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio08.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio09.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio14.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio15.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio16.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio17.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio21.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/Exercicio21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosFaccat/exemploWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosManzano/Exercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosManzano/Exercicio1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosManzano/Exercicio2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/exerciciosManzano/Exercicio2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/module-info.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/bin/projetoMequi/ProjetoMequi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/bin/projetoMequi/ProjetoMequi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exemplo/ExemploWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exemplo/Temporizador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosFaccat/Exercicio09.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosFaccat/Exercicio09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosFaccat/Exercicio21.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosFaccat/Exercicio21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosFaccat/exemploWhile.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosManzano/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosManzano/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosManzano/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosManzano/Exercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/exerciciosManzano/ExerciciosManzano01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QualityAssurance/src/projetoMequi/ProjetoMequi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../QualityAssurance/src/projetoMequi/ProjetoMequi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2VVja3h4oidINFFwwlu4EoSHs0n" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/carlo/OneDrive/Documentos/ProjetosFaculJava/DesenvolvimentoBackEnd",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87e60fd9-8321-42db-b8ad-d1a03c6caced" name="Changes" comment="" />
+      <created>1694928201709</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694928201709</updated>
+      <workItem from="1694928202738" duration="35000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

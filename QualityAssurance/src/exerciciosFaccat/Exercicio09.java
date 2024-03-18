@@ -21,7 +21,7 @@ public class Exercicio09 {
 			sc.close();
 			
 		} catch (Exception e) {
-			
+			System.out.println("Ocorreu um erro: "+e);
 		}
 
 	}
